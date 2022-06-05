@@ -1,5 +1,5 @@
 {
-  "name": "my-framework",
+  "name": "webpack",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
@@ -9,16 +9,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MirusD/my-framework.git"
+    "url": "git+https://github.com/MirusD/webpack.git"
   },
   "keywords": [],
   "author": "Damir Salikhov",
   "license": "ISC",
   "private": true,
   "bugs": {
-    "url": "https://github.com/MirusD/my-framework/issues"
+    "url": "https://github.com/MirusD/webpack/issues"
   },
-  "homepage": "https://github.com/MirusD/my-framework#readme",
+  "homepage": "https://github.com/MirusD/webpack#readme",
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
     "@babel/core": "^7.18.2",
